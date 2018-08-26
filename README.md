@@ -5,7 +5,7 @@ This script to use to recognize text from an image
 
 * pip install -r requirements.txt
 
-* Create pdf, image, text to the current folder
+* Create Folders named pdf, image, text to the current folder
 
 * place your pdf file the pdf folder
 
