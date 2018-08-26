@@ -5,12 +5,10 @@ This script to use to recognize text from an image
 
 * pip install -r requirements.txt
 
-* pip install wand
-
-* pip install PyPDF2
-
 * Create pdf, image, text to the current folder
 
 * place your pdf file the pdf folder
 
 * run the script ./pdf_img_text.py
+
+* For sample, added a file named "code.pdf"
