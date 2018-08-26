@@ -1,4 +1,4 @@
-# text_detection_python
+# text_detection_python (with Google Vision API)
 
 >>This script will convert your multi pages PDF file to single pages PDF
 
