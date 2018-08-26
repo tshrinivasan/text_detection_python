@@ -1,5 +1,10 @@
 # text_detection_python
-This script to use to recognize text from an image
+
+>>This script will convert your multi pages PDF file to single pages PDF
+
+>>Convert the single page PDF to Image
+
+>>Recognize the text from the image and save the text to a TXT file.
 
 * Import VISION_API to your local machine
 
